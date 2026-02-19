@@ -31,3 +31,18 @@ x2 <- (-b - sqrt(b^2 - 4*a*c))/(2*a)
 print(x1)
 print(x2)
 
+
+# 2. Funciones Propias de R
+#ls           # Muestra el código completo de la función (cuando no se ocupa parentesis)
+
+log(8)        # Función con Argumento (Función de Logaritmico)
+log(a)
+
+log(exp(1))   # Función Anidada -> Primero se evalua exp(1) y luego la 2da función
+
+help("log")   # Función de Ayuda
+?log          # Función de Ayuda (Abreviación)
+
+args(log)     # Para saber los argumentos de una función propia de R
+
+log(8,base=2) # Logaritmo de 8 con base 2
