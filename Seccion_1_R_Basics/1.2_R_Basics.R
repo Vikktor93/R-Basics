@@ -50,3 +50,9 @@ log(8,base=2)    # Logaritmo de 8 con base 2 (abreviado)
 log(x=8, base=2) # Logaritmo de 8 con base 2 (método formal)
 
 log(8,2)         # Logaritmo de 8 con base 2 (forma más abreviada)
+
+?"*"             # Función de ayuda para operadores aritméticos
+
+data()           # Función para saber los datasets disponibles de R
+
+CO2              # Información del Dataset de Co2
