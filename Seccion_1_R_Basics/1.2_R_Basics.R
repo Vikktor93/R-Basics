@@ -56,3 +56,8 @@ log(8,2)         # Logaritmo de 8 con base 2 (forma más abreviada)
 data()           # Función para saber los datasets disponibles de R
 
 CO2              # Información del Dataset de Co2
+
+# OTRAS VARIABLES
+
+pi               # Número PI
+Inf              # Infinito
