@@ -58,6 +58,5 @@ data()           # Función para saber los datasets disponibles de R
 CO2              # Información del Dataset de Co2
 
 # OTRAS VARIABLES
-
 pi               # Número PI
 Inf              # Infinito
