@@ -28,3 +28,10 @@ codes[1:2]
 # Si las entradas de un vector tienen nombre, pueden accederse refiriéndose a su nombre
 codes["Canada"]
 codes[c("Egipto","Italia")]
+
+# Función para crear Secuencias
+seq(1,10)   # Secuencia de números enteros de 1 al 10
+seq(1,10,2) # Secuencias de números enteros de 1 al 10, pero saltando de 2 en 2
+
+# Una abreviación para obtener números consecutivos enteros
+1:10
